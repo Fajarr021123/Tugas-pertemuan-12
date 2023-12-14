@@ -7,16 +7,17 @@
 
 .paragraf1 {
     font-size: 48px;
-    font-weight: 400;
-    font-family: Roboto;
+    font-weight: 400px;
+    font-family: 'Roboto';
     color: #333;
     text-align: center;
     height: 55px;
     width: 467px;
+    font-weight: bolder;
 }
 .body1 {
     
-    margin: 50px 0 0;
+    margin: 50px 0 0 0;
     margin: 0;
     padding: 0;
     font-family: "Gill Sans", sans-serif, "Poppins";
